@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-
+![Gráfico dos Passos](docs/imgs/Herdt_per_passos.pdf)
 Este repositório contém implementações em **Python** de algoritmos de controle para a locomoção de robôs humanoides. O código foi desenvolvido como parte do Trabalho de Conclusão de Curso em Engenharia Mecatrônica na Universidade Federal de Uberlândia (UFU).
 
 O objetivo principal deste projeto é democratizar o acesso a técnicas de controle dinâmico de alto nível, fornecendo uma base de código modular e evolutiva. Este material foi pensado para auxiliar pesquisadores e membros de equipes de robótica no desenvolvimento de rotinas de caminhada robustas.
@@ -91,3 +91,17 @@ Todos os scripts contam com a geração automatizada de gráficos de alta qualid
 
 Este projeto é licenciado sob a **GNU General Public License v3.0** (GPLv3). 
 Isso significa que você é livre para usar, modificar e distribuir este software, desde que qualquer trabalho derivado (seja um novo código ou a integração em um robô físico) também seja de código aberto e distribuído sob a mesma licença.
+
+
+## 📚 Como Citar
+
+Se este repositório foi útil para a sua pesquisa ou equipe de robótica, por favor, considere citar o documento original do TCC:
+
+```bibtex
+@monography{botelho2026zmp,
+  title={Implementação de controle preditivo para definição da posição dos pés de um robô humanoide ao longo da caminhada},
+  author={Botelho, Paulo},
+  school={Universidade Federal de Uberlândia (UFU)},
+  year={2026},
+  type={Trabalho de Conclusão de Curso (Engenharia Mecatrônica)}
+}
