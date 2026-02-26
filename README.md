@@ -2,7 +2,8 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-![Gráfico dos Passos](docs/imgs/Herdt_per_passos.pdf)
+
+![Gráfico dos Passos](docs/imgs/Herdt_per_passos.png)
 Este repositório contém implementações em **Python** de algoritmos de controle para a locomoção de robôs humanoides. O código foi desenvolvido como parte do Trabalho de Conclusão de Curso em Engenharia Mecatrônica na Universidade Federal de Uberlândia (UFU).
 
 O objetivo principal deste projeto é democratizar o acesso a técnicas de controle dinâmico de alto nível, fornecendo uma base de código modular e evolutiva. Este material foi pensado para auxiliar pesquisadores e membros de equipes de robótica no desenvolvimento de rotinas de caminhada robustas.
