@@ -44,8 +44,8 @@ Não é necessária nenhuma instalação. Basta subir os arquivos `.ipynb` da pa
 ### Opção 2: Localmente
 Clone o repositório para a sua máquina:
 ```bash
-git clone https://github.com/Paulo-Botelho/TCC_preview_control.git
-cd TCC_preview_control
+git clone https://github.com/Paulo-Botelho/Bipedal-Locomotion-MPC.git
+cd Bipedal-Locomotion-MPC
 ```
 Crie um ambiente virtual (opcional, mas recomendado) e instale as dependências:
 ```bash
