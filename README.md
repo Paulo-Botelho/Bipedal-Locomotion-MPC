@@ -100,7 +100,7 @@ Se este repositório foi útil para a sua pesquisa ou equipe de robótica, por f
 
 ```bibtex
 @monography{botelho2026zmp,
-  title={Implementação de controle preditivo para definição da posição dos pés de um robô humanoide ao longo da caminhada},
+  title={Comparação entre abordagens de geração de caminhadas estáveis para robôs humanoides},
   author={Botelho, Paulo},
   school={Universidade Federal de Uberlândia (UFU)},
   year={2026},
